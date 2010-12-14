@@ -5,7 +5,7 @@
         <text>A%20Web%20Page%0Ahttp%3A//</text>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="154" y="133" w="-1" h="-1" measuredW="204" measuredH="57" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="154" y="133" w="-1" h="-1" measuredW="205" measuredH="56" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Rails3%20Blog</text>
       </controlProperties>
@@ -17,7 +17,7 @@
             <borderStyle>roundedSolid</borderStyle>
           </controlProperties>
         </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="23" y="15" w="-1" h="-1" measuredW="253" measuredH="57" zOrder="1" locked="false" isInGroup="11">
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="23" y="15" w="-1" h="-1" measuredW="250" measuredH="56" zOrder="1" locked="false" isInGroup="11">
           <controlProperties>
             <text>Post%20%232%20Title</text>
           </controlProperties>
@@ -27,17 +27,17 @@
             <text>lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20...</text>
           </controlProperties>
         </control>
-        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="23" y="144" w="-1" h="-1" measuredW="119" measuredH="24" zOrder="3" locked="false" isInGroup="11">
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="23" y="144" w="-1" h="-1" measuredW="118" measuredH="23" zOrder="3" locked="false" isInGroup="11">
           <controlProperties>
             <text>01/12/2010%20%3A%2023%3A00</text>
           </controlProperties>
         </control>
-        <control controlID="4" controlTypeID="com.balsamiq.mockups::Link" x="371" y="34" w="-1" h="-1" measuredW="29" measuredH="24" zOrder="4" locked="false" isInGroup="11">
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Link" x="371" y="34" w="-1" h="-1" measuredW="28" measuredH="23" zOrder="4" locked="false" isInGroup="11">
           <controlProperties>
             <text>edit</text>
           </controlProperties>
         </control>
-        <control controlID="5" controlTypeID="com.balsamiq.mockups::Link" x="157" y="144" w="-1" h="-1" measuredW="110" measuredH="24" zOrder="5" locked="false" isInGroup="11">
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Link" x="157" y="144" w="-1" h="-1" measuredW="107" measuredH="23" zOrder="5" locked="false" isInGroup="11">
           <controlProperties>
             <text>Continue%20Reading</text>
           </controlProperties>
@@ -51,7 +51,7 @@
             <borderStyle>roundedSolid</borderStyle>
           </controlProperties>
         </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="23" y="15" w="-1" h="-1" measuredW="245" measuredH="57" zOrder="1" locked="false" isInGroup="13">
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="23" y="15" w="-1" h="-1" measuredW="243" measuredH="56" zOrder="1" locked="false" isInGroup="13">
           <controlProperties>
             <text>Post%20%231%20Title</text>
           </controlProperties>
@@ -61,18 +61,20 @@
             <text>lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20...</text>
           </controlProperties>
         </control>
-        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="23" y="144" w="-1" h="-1" measuredW="119" measuredH="24" zOrder="3" locked="false" isInGroup="13">
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="23" y="144" w="-1" h="-1" measuredW="118" measuredH="23" zOrder="3" locked="false" isInGroup="13">
           <controlProperties>
             <text>01/12/2010%20%3A%2023%3A00</text>
           </controlProperties>
         </control>
-        <control controlID="4" controlTypeID="com.balsamiq.mockups::Link" x="371" y="34" w="-1" h="-1" measuredW="29" measuredH="24" zOrder="4" locked="false" isInGroup="13">
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Link" x="371" y="34" w="-1" h="-1" measuredW="28" measuredH="23" zOrder="4" locked="false" isInGroup="13">
           <controlProperties>
             <text>edit</text>
           </controlProperties>
         </control>
-        <control controlID="5" controlTypeID="com.balsamiq.mockups::Link" x="157" y="144" w="-1" h="-1" measuredW="110" measuredH="24" zOrder="5" locked="false" isInGroup="13">
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Link" x="157" y="144" w="-1" h="-1" measuredW="107" measuredH="23" zOrder="5" locked="false" isInGroup="13">
           <controlProperties>
+            <href>ShowAPostPage%26bm%3BShowAPostPage.bmml%26bm%3BShowAPostPage.bmml%26bm%3BShowAPostPage.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22206%2C555%2C313%2C578%22%20href%3D%22ShowAPostPage.bmml%22%20alt%3D%22ShowAPostPage%22%20id%3D%225%22/%3E</map>
             <text>Continue%20Reading</text>
           </controlProperties>
         </control>
